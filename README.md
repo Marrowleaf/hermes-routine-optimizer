@@ -50,3 +50,8 @@ routine report today
 ## License
 
 MIT
+
+## Related Hermes Skills
+- [hermes-apple-health-sync](https://github.com/Marrowleaf/hermes-apple-health-sync) — Apple Health data sync and analysis
+- [hermes-habits](https://github.com/Marrowleaf/hermes-habits) — Daily habit tracking with streaks and rollups
+- [hermes-meal-planner](https://github.com/Marrowleaf/hermes-meal-planner) — Meal planning and nutrition tracking
