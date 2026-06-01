@@ -1,3 +1,11 @@
+# ⚠️ Archived — Moved to [hermes-skills](https://github.com/Marrowleaf/hermes-skills)
+
+This repository has been consolidated into the **[hermes-skills](https://github.com/Marrowleaf/hermes-skills)** collection.
+
+All functionality remains the same. Please use the consolidated repo going forward.
+
+---
+
 # Routine Optimizer
 
 > Analyze and optimize daily routines with time-blocking, energy mapping, and habit stacking suggestions.
